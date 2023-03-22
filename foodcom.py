@@ -2,13 +2,6 @@
 - Recommend or search food
 - Provide recipe
 
-
-Team Member
-- Wenyu Liu (wenyuliu)
-- Yanjun Chen (yanjunch)
-- Longyang Xu (lonyanx)
-- Xinyu Wang (xwang5)
-- Prachee Talwar (ptalwar)
 """
 
 import os

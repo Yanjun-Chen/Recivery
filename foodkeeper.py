@@ -1,13 +1,6 @@
 """
 - Provide food keep advice
 
-
-Team Member
-- Wenyu Liu (wenyuliu)
-- Yanjun Chen (yanjunch)
-- Longyang Xu (lonyanx)
-- Xinyu Wang (xwang5)
-- Prachee Talwar (ptalwar)
 """
 
 '''

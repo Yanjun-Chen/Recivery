@@ -1,13 +1,6 @@
 """
 The back-end version of Recivery APP.
 
-
-Team Member
-- Wenyu Liu (wenyuliu)
-- Yanjun Chen (yanjunch)
-- Longyang Xu (lonyanx)
-- Xinyu Wang (xwang5)
-- Prachee Talwar (ptalwar)
 """
 
 from foodcom import FoodCom

@@ -1,12 +1,6 @@
 """
 - Implement the Google Search API to search nearby grocery stores.
 
-Team Member
-- Wenyu Liu (wenyuliu)
-- Yanjun Chen (yanjunch)
-- Longyang Xu (lonyanx)
-- Xinyu Wang (xwang5)
-- Prachee Talwar (ptalwar)
 """
 
 import requests
